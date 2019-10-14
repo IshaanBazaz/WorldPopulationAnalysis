@@ -1,2 +1,1 @@
-# WorldPopulationAnalysis
-Analysing World Population of last 50 years
+The target is to analyse the data to see trends of world population. We would like to know which countries has a major rise in their population and how the world population has changed across decades. 
